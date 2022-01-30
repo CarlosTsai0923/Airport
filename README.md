@@ -1,1 +1,1 @@
-# Airport
+trojan://z41665173@34.92.87.137:443?allowInsecure=1&peer=www.lngfans891.xyz#vps06-trojan,ssr://MzQuOTIuMTg2LjI0Nzo0NDM6b3JpZ2luOmNoYWNoYTIwOnRsczEuMl90aWNrZXRfYXV0aDplalF4TmpZMU1UY3ovP3JlbWFya3M9ZG5Cek1EWSZwcm90b3BhcmFtPSZvYmZzcGFyYW09
